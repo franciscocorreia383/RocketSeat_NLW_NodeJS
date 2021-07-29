@@ -1,0 +1,5 @@
+database -> criação do banco de dados usando o framework TypeORM
+entities -> modelo de dados a serem inseridos no banco de dados
+repositories -> manipulação de dados no banco de dados
+services -> manipula as regras de negócios
+controller -> repassa as informações da camada server para a camada services
