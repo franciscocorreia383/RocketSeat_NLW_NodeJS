@@ -8,6 +8,7 @@ interface IUserRequest{
 
 }
 
+//Solid principals
 class CreateUserService{
 
     async execute({ name, email, admin} : IUserRequest){
